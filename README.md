@@ -72,3 +72,8 @@ react-agent "Hello"
 ## License
 
 Add a license file if you intend to open-source under specific terms.
+
+## Details
+Name: Chinmay Senapati
+Track: Backend Developer
+Lab Name: ReAct Agent (Lab 1)
